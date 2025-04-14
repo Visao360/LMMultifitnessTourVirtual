@@ -1,4 +1,9 @@
 {
+ "start_url": "index.htm?installed=true",
+ "theme_color": "#FFFFFF",
+ "name": "LM MultiFitness",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -35,10 +40,5 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ],
- "name": "LM MultiFitness",
- "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF",
- "start_url": "index.htm?installed=true"
+ ]
 }
